@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/anamika/gpxmodule/ApiUtils.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/anamika/gpxmodule/LocationContract.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/anamika/gpxmodule/LocationDBHelper.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/anamika/gpxmodule/MLocation.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/anamika/gpxmodule/MResponse.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/anamika/gpxmodule/MainActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/anamika/gpxmodule/MyApplication.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/anamika/gpxmodule/NetworkService.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/anamika/gpxmodule/RetrofitClient.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
